@@ -1,9 +1,10 @@
 flask
+gunicorn
 langchain
 langchain-community
 sentence-transformers
 faiss-cpu
-huggingface-hub
+pypdf
 transformers
 torch
-pypdf
+huggingface-hub
