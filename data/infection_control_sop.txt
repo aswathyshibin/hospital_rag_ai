@@ -1,0 +1,41 @@
+INFECTION CONTROL STANDARD OPERATING PROCEDURE (SOP)
+
+1. PURPOSE
+To prevent and control hospital-acquired infections and ensure patient and staff safety.
+
+2. SCOPE
+Applies to all hospital departments including ICU, wards, OPD, and laboratories.
+
+3. HAND HYGIENE
+- Wash hands before and after patient contact
+- Use alcohol-based hand rubs when appropriate
+- Follow WHO hand hygiene moments
+
+4. PERSONAL PROTECTIVE EQUIPMENT (PPE)
+- Gloves must be worn during patient contact
+- Masks are mandatory in sterile areas
+- Gowns should be used when exposure is anticipated
+
+5. ICU INFECTION CONTROL
+- Strict aseptic techniques must be followed
+- ICU equipment must be disinfected daily
+- Visitor access should be limited
+
+6. BIOMEDICAL WASTE MANAGEMENT
+- Waste must be segregated by color coding
+- Sharps must be disposed in puncture-proof containers
+- Waste must be removed daily
+
+7. ISOLATION PROTOCOL
+- Patients with infectious diseases must be isolated
+- Dedicated staff should be assigned
+
+8. CLEANING AND DISINFECTION
+- Floors cleaned twice daily
+- High-touch surfaces disinfected frequently
+
+9. TRAINING
+Staff must receive regular infection control training.
+
+10. AUDIT
+Monthly audits must be conducted to ensure compliance.

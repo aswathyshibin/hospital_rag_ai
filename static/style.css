@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: url("https://images.unsplash.com/photo-1586773860418-d37222d8fce3") center/cover no-repeat;
+    position: relative;
+}
+
+/* Dark overlay for readability */
+.overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    z-index: 0;
+}
+
+.container {
+    position: relative;
+    z-index: 1;
+    max-width: 900px;
+    margin: auto;
+    padding: 40px 20px;
+    color: #ffffff;
+}
+
+/* Headings */
+.title {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    text-align: center;
+    color: #cfefff;
+    margin-bottom: 40px;
+}
+
+/* Cards */
+.card {
+    background: rgba(255, 255, 255, 0.12);
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 30px;
+    backdrop-filter: blur(8px);
+}
+
+/* Section titles */
+.section-title {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+/* Inputs */
+.file-input,
+.text-input {
+    width: 100%;
+    padding: 14px;
+    border-radius: 8px;
+    border: none;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.text-input {
+    outline: none;
+}
+
+/* Buttons */
+.btn {
+    width: 100%;
+    padding: 14px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.primary-btn {
+    background: #00c6ff;
+    color: #003344;
+}
+
+.primary-btn:hover {
+    background: #00aedd;
+}
+
+.secondary-btn {
+    background: #1de9b6;
+    color: #003333;
+}
+
+.secondary-btn:hover {
+    background: #16cfa2;
+}
+
+/* Answer */
+.answer-card h3 {
+    margin-top: 0;
+}
+
+.answer-text {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.source-list {
+    padding-left: 20px;
+}
+
+.note {
+    text-align: center;
+    font-size: 13px;
+    opacity: 0.9;
+    margin-top: 30px;
+}

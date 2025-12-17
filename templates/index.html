@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hospital SOP AI Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="overlay"></div>
+
+<div class="container">
+
+    <h1 class="title"> Hospital Standard Operating Procedure AI Assistant</h1>
+    <p class="subtitle">SOP Intelligence System</p>
+
+    <!-- Upload SOP -->
+    <form method="POST" enctype="multipart/form-data" class="card">
+        <label class="section-title">Upload SOP Document</label>
+        <input type="file" name="sop_file" accept=".pdf,.txt" required class="file-input">
+        <button type="submit" name="action" value="upload" class="btn primary-btn">
+            Upload SOP
+        </button>
+    </form>
+
+    <!-- Ask Question -->
+    <form method="POST" class="card">
+        <label class="section-title">Ask a Question</label>
+        <input type="text" name="question" placeholder="Type your SOP-related question here..." required class="text-input">
+        <button type="submit" name="action" value="ask" class="btn secondary-btn">
+            Ask
+        </button>
+    </form>
+
+    <!-- Answer Section -->
+    {% if answer %}
+    <div class="card answer-card">
+        <h3>Answer</h3>
+        <p class="answer-text">{{ answer }}</p>
+
+        <h4>Source</h4>
+        <ul class="source-list">
+            {% for s in sources %}
+                <li>{{ s }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    <p class="note">
+        ⚠️ For hospital SOP reference only. Not medical advice.
+    </p>
+
+</div>
+
+</body>
+</html>

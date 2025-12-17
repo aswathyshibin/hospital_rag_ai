@@ -1,0 +1,47 @@
+HOSPITAL PATIENT ADMISSION STANDARD OPERATING PROCEDURE (SOP)
+
+1. PURPOSE
+The purpose of this SOP is to define the standardized process for admitting patients into the hospital to ensure safety, accuracy, and efficiency.
+
+2. SCOPE
+This procedure applies to all hospital staff including receptionists, nurses, doctors, and administrative personnel involved in patient admission.
+
+3. RESPONSIBILITIES
+- Front Desk Staff: Collect patient details and verify documents
+- Nursing Staff: Initial assessment and vitals
+- Doctors: Clinical evaluation
+- Administration: Bed allocation and billing initiation
+
+4. ADMISSION TYPES
+4.1 Emergency Admission
+Emergency patients must be admitted immediately without delay. Identification and documentation may be completed after stabilization.
+
+4.2 Scheduled Admission
+Patients with planned procedures must report to the admission desk at the scheduled time with valid identification and referral documents.
+
+5. REQUIRED DOCUMENTS
+- Government-issued ID proof
+- Insurance card (if applicable)
+- Referral letter
+- Previous medical records
+
+6. ADMISSION PROCESS
+Step 1: Patient arrives at admission desk
+Step 2: Registration form is completed
+Step 3: Unique hospital ID is generated
+Step 4: Nursing staff records vital signs
+Step 5: Doctor performs initial examination
+Step 6: Bed is allocated
+
+7. SPECIAL CASES
+- Pediatric patients require guardian consent
+- Unconscious patients follow emergency protocol
+
+8. RECORD MAINTENANCE
+All admission records must be stored securely in the hospital information system.
+
+9. CONFIDENTIALITY
+Patient information must be handled according to hospital privacy policies.
+
+10. REVISION HISTORY
+This SOP shall be reviewed annually.

@@ -1,0 +1,58 @@
+HOSPITAL PATIENT ADMISSION STANDARD OPERATING PROCEDURE (SOP)
+
+1. PURPOSE
+The purpose of this SOP is to define the standardized process for admitting patients into the hospital.
+This ensures patient safety, accurate documentation, and efficient coordination among departments.
+
+2. SCOPE
+This procedure applies to all hospital staff involved in patient admission, including:
+- Reception staff
+- Nursing staff
+- Doctors
+- Administrative staff
+
+3. TYPES OF ADMISSION
+3.1 Emergency Admission
+Emergency admission is initiated when a patient requires immediate medical attention.
+The patient is taken directly to the emergency department for assessment and treatment.
+
+3.2 Elective Admission
+Elective admission is planned in advance based on a doctor’s recommendation.
+Patients are admitted at a scheduled date and time.
+
+4. EMERGENCY ADMISSION PROCEDURE
+1. The patient is received at the emergency department.
+2. The triage nurse assesses the patient’s condition immediately.
+3. Emergency medical care is provided without delay.
+4. Basic patient details are recorded once the patient is stabilized.
+5. The duty doctor decides on further treatment or admission.
+
+5. ROLES AND RESPONSIBILITIES
+5.1 Reception Staff
+- Register patient details
+- Create admission records
+- Guide patient attendants
+
+5.2 Nursing Staff
+- Perform triage assessment
+- Monitor vital signs
+- Assist doctors during treatment
+
+5.3 Doctors
+- Diagnose the patient
+- Decide admission type
+- Prescribe treatment plan
+
+6. DOCUMENTATION
+The following documents must be maintained:
+- Patient admission form
+- Medical history record
+- Consent forms
+- Insurance details (if applicable)
+
+7. CONFIDENTIALITY
+All patient information must be handled confidentially according to hospital policy.
+Unauthorized access or disclosure is strictly prohibited.
+
+8. REVIEW AND UPDATES
+This SOP shall be reviewed annually and updated as required.
